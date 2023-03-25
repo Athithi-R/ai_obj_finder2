@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    
+}
+
+canvas{
+    border: 5px solid yellow;
+    border-radius: 10px;
+    margin-top: 180px;
+    box-shadow: 5px 5px 5px purple;
+}
